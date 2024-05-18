@@ -1,4 +1,9 @@
 # docker-coscli
+
+[![ci](https://github.com/quangthe/docker-coscli/actions/workflows/docker.yaml/badge.svg)](https://github.com/quangthe/docker-coscli/actions/workflows/build-docker.yaml)
+[![Docker Stars](https://img.shields.io/docker/stars/pcloud/coscli.svg?style=flat)](https://hub.docker.com/r/pcloud/coscli/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/pcloud/coscli.svg?style=flat)](https://hub.docker.com/r/pcloud/coscli/)
+
 Tencent COS CLI on alpine-based image
 
 [COSCLI Overview](https://www.tencentcloud.com/document/product/436/43249)
