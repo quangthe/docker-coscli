@@ -10,7 +10,7 @@ Tencent COS CLI on alpine-based image
 
 Local build
 ```shell
-docker build  --build-arg COSCLI_VERSION=v0.13.0-beta  -t pcloud/coscli .
+docker build  --build-arg COSCLI_VERSION=v0.20.0-beta  -t pcloud/coscli .
 ```
 
 Check COS version release here: [https://github.com/tencentyun/coscli/releases/](https://github.com/tencentyun/coscli/releases/)
@@ -22,5 +22,5 @@ docker run --rm -it pcloud/coscli
 
 ```text
 / # coscli --version
-coscli version v0.13.0-beta
+coscli version v0.20.0-beta
 ```
