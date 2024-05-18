@@ -1,6 +1,6 @@
 # docker-coscli
 
-[![ci](https://github.com/quangthe/docker-coscli/actions/workflows/docker.yaml/badge.svg)](https://github.com/quangthe/docker-coscli/actions/workflows/build-docker.yaml)
+[![ci](https://github.com/quangthe/docker-coscli/actions/workflows/build-docker.yaml/badge.svg)](https://github.com/quangthe/docker-coscli/actions/workflows/build-docker.yaml)
 [![Docker Stars](https://img.shields.io/docker/stars/pcloud/coscli.svg?style=flat)](https://hub.docker.com/r/pcloud/coscli/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pcloud/coscli.svg?style=flat)](https://hub.docker.com/r/pcloud/coscli/)
 
